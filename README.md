@@ -1,35 +1,35 @@
-# 🚀 {Agendamento para Corte de Cabelo}
+<div align="center">
+  <h1> ✂️ Hair Day - Agendamento para corte de cabelo
+</div>
 
-Este repositório contém um projeto desenvolvido utilizando Javascript. A seguir, você encontrará dicas para conseguir ter acesso
+<div align="center">
+  <h1> 📌 Sobre o Projeto
+</div>
+    
+O **Hair Day** foi desenvolvido para fins didáticos, utilizando:
+
+- 🔧 **JSON Server** para simulação de uma API
+- ⏰ **Dayjs** para lidar com data e hora
+- ⚙️ **Babel** como compilador  
+- 📦 **Webpack** como bundler (empacotamento)
 
 
-## Passo 1️⃣: Clonar o repositório
+### ✨ Funcionalidades
+- ✅ Agendamento de corte de cabelo com base nos horários disponíveis (Não está no passado e nem foi agendado)
 
-Comece clonando este repositório para sua máquina local. Para clonar o repositório, clique no botão "Clone" acima ou execute o seguinte comando no terminal:
+- ✅ Cancelamento de agendamento
 
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
+- ✅ Visualização do agendamento com os dados referente ao nome, horário e cancelamento
 
-Isso criará uma cópia local do repositório em seu ambiente.
+### 🚀 Pré-requisitos
+- Node.js
+- JSON Server
+- Babel
+- Webpack
+- Dayjs
 
+### 🙌 Obrigado!
 
-## Passo 2️⃣: Modificar o projeto
-
-Agora que você tem o projeto, é possível fazer modificações no código conforme necessário. Sinta-se à vontade para explorar e adaptar o projeto de acordo com seu desejo.
-
-## Passo 3️⃣: Publicar suas modificações
-
-Se desejar publicar suas modificações em um repositório remoto no GitHub, siga estes passos:
-
-1️⃣ Crie um novo repositório vazio no GitHub.
-2️⃣ No terminal, navegue até o diretório raiz do projeto.
-3️⃣ Execute os seguintes comandos:
-
-```bash
-git remote set-url origin https://github.com/seu-usuario/nome-do-novo-repositorio.git
-git add .
-git commit -m "Adicionar minhas modificações"
-git push -u origin master
-```
+**Desenvolvido por:**  
+João Guilherme
 
