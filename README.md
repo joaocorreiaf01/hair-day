@@ -2,7 +2,7 @@
   <h1> ✂️ Hair Day - Agendamento para corte de cabelo
 </div>
 
-<div>
+<div align="center">
   <h1> 📌 Sobre o Projeto
 </div>
     
