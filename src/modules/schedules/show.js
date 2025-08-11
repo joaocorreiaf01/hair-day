@@ -33,7 +33,8 @@ export function schedulesShow({dailySchedules}) {
             item.append(time, name, cancelIcon)
 
             // Obtém somente a hora
-            const hour = dayjs(dailySchedules.when).hour()
+            const hour = dayjs(schedule.when).hour()
+            console.log(hour)
 
             // Renderiza o agendamento na sessão (manhã, tarde ou noite)
             if (hour <= 12) {
